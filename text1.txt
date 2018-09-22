@@ -1,2 +1,3 @@
-text file to learn git
-git is not supposed to be hard to learn
+啊 text file to learn git
+git not supposed to be hard to learn
+新增一行
