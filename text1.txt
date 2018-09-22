@@ -1,0 +1,2 @@
+text file to learn git
+git is not supposed to be hard to learn
